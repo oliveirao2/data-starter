@@ -1,2 +1,2 @@
 # data-starter
-Starting portfolio for data analytics 
+Portfolio for data analytics 
